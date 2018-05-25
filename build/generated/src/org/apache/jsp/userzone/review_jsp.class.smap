@@ -1,0 +1,18 @@
+SMAP
+review_jsp.java
+JSP
+*S JSP
+*F
++ 0 review.jsp
+userzone/review.jsp
+*L
+5,17:48
+22,7:66
+28,14:73
+42,4:88
+45,4:92
+49,9:97
+57,51:106
+108:157,3
+109,3:160
+*E

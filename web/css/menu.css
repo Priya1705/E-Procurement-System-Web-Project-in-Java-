@@ -1,0 +1,25 @@
+#menu ul
+{
+    list-style-type: none;
+    overflow: hidden;
+}
+#menu ul li
+{
+    float:left;
+    display: inline-block;
+    padding: 8px;
+    width: 100px;
+    margin: 8px;
+    margin-left: 25px;
+    font-family:Arial Rounded MT Bold;
+    text-align: center;
+    font-size: 18px;
+}
+#menu ul li a
+{
+    text-decoration: none;
+}
+#menu ul li a:hover
+{
+    color: red;
+}
